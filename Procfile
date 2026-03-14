@@ -1,1 +1,1 @@
-worker: python bg.py
+worker: python3 bg.py
