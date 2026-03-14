@@ -1,2 +1,5 @@
 aiogram
-aiohttp
+rembg
+pillow
+bs4
+onnxruntime
