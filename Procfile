@@ -1,0 +1,1 @@
+worker: python bg.py
