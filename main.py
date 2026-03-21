@@ -9,7 +9,7 @@ import time
 import concurrent.futures 
 # --- Configuration ---
 API_TOKEN = '8112492091:AAEcKnuSF6U_BpFCidNUziXX8cGkuBv9rNY'  # Replace with your Telegram Bot API token
-CHECKER_API = "https://sh.victus.name/sh?cc={cc}&site={site}"
+CHECKER_API = "https://sh.wasvictus.me/sh?cc={cc}&site={site}"
 BOT_BY_TAG = "@ERR0R9"
 VALID_SITE = [
     "INSUFFICIENT_FUNDS",
